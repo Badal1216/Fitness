@@ -1,6 +1,6 @@
 body{
-    padding:0px;
-    margin:0px;
+    padding: 0;
+    margin: 0;
     font-family: 'Lato', sans-serif;
     overflow-x: hidden;
 }
@@ -66,9 +66,9 @@ body{
     filter:grayscale(0);
     transform: scale(1.2);
 }
-#names h3, #names p{
+#names h3, #names p {
     text-align: center;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 /* Trainer */
